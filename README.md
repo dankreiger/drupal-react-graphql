@@ -11,6 +11,7 @@ $ yarn
 # first time make scripts executable
 $ chmod +x scripts/start.sh
 
+$ yarn start
 # add backend drupal uri at bash prompt
 ```
 
