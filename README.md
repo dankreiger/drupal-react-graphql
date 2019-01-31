@@ -26,6 +26,8 @@
    # 'example.settings.local.php' file, which sits next to this file.
    ```
 
+3. install [lando](https://docs.devwithlando.io/) for Drupal/Drush CLI usage
+
 ---
 
 ![puppy](./puppy.png)
